@@ -1,0 +1,36 @@
+    1  dir
+    2  pwd
+    3  dir
+    4  pwd
+    5  cd ../shivakumar
+    6  cd ..
+    7  dir
+    8  cd /
+    9  dir
+   10  cd
+   11  dir
+   12  mkdir gitlab
+   13  cd gitlab
+   14  dir
+   15  git --version
+   16  git pull 
+   17  exit
+   18  dir
+   19  cd gitlab
+   20  dir
+   21  git pull https://github.com/LinkedInLearning/level-up-advanced-sql-4311094
+   22  git clone https://github.com/LinkedInLearning/level-up-advanced-sql-4311094
+   23  dir
+   24  ls -l
+   25  cd level*
+   26  dir
+   27  pwd
+   28  dir
+   29  git status
+   30  git remote -v
+   31  pwd
+   32  git remote add kumar https://github.com/bkskumar92/level-up-advanced-sql-4311094
+   33  git remove -v
+   34  git remote -v
+   35  history
+   36  history > commands.07152023
